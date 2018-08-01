@@ -7,3 +7,5 @@ Model:
 
 Visual Meaning of Results:
 ![](https://github.com/sheshappanavar/DeepStroke/visual_meaning.png)
+
+
